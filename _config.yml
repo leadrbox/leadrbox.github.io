@@ -1,0 +1,13 @@
+# Site settings
+title: Leadrbox - focused on athletes and trainers
+email: info@leadrbox.com
+description: > # this means to ignore newlines until "baseurl:"
+  We are Leadrbox, a software company focused on making the lives of Athletes
+  and Trainers better through software, education, and tools.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.leadrbox.com" # the base hostname & protocol for your site
+twitter_username: leadrbox
+github_username:  leadrbox
+
+# Build settings
+markdown: kramdown
