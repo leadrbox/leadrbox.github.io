@@ -1,8 +1,9 @@
 ---
 layout: post
-title: I want to herniate a disk -- said no one ever
+title: '"I want to herniate a disk" -- said no one ever'
 date: 2015-07-11T19:21:46-06:00
 categories: 1rm
+excerpt: "No one asks for a herniated disk, but this is the risk you take when you load the squat bar for a 1 rep max. A safer alternative is a 3-5 rep technical failure max."
 ---
 
 There are 26 bones or vertebrae that make up the spinal column and they are
