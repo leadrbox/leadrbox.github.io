@@ -3,7 +3,7 @@ layout: post
 title: 'Perfecting the Squat: Ankle Mobility'
 date: 2015-08-05T19:21:46-06:00
 categories: squats
-excerpt: "No one asks for a herniated disk, but this is the risk you take when you load the squat bar for a 1 rep max. A safer alternative is a 3-5 rep technical failure max."
+excerpt: "You must have good thoracic, hip, and ankle mobility along with lumbar and knee stability to minimize risk and maximize squat results"
 ---
 
 ![squats](http://assets.blog.leadrbox.com.s3-us-west-2.amazonaws.com/squats/lady_squat.jpg)
@@ -13,7 +13,7 @@ begin with rolling, pushing up, quadruped and evolve to crawling, and
 ultimately leads to finding the nearest piece of furniture to pull yourself up
 on.  And, so squatting begins, from the bottom up. The squatting pattern should
 be practiced by every athlete, everyday; however, loading the squat is not a
-one-size-fits-all exercise. 
+one-size-fits-all exercise.
 
 Practicing the squat pattern from the bottom up forces you to earn the
 stability it will take to squat with heavy loads, but perfecting the squat is
