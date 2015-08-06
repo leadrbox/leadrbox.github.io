@@ -33,6 +33,10 @@ movement to your foot and ankle, such as drawing the alphabet in capital
 letters with your foot, can add an additional mobility benefit while rolling
 out.
 
+<div class='videoWrapper'>
+  <iframe src="https://www.youtube.com/embed/LiiGp1IpIlo" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Starting with the [FMS toe touch
 progression](http://www.functionalmovement.com/exercises/toe_touch_progression)
 and then elevating your heels from 1 1/4” to 2” can help those with ankle
@@ -67,7 +71,5 @@ mobility issues and perform the squat pattern with higher quality.
 Practice the squat and then go through the video routine below and to see if your squat quality improves.
 
 <div class='videoWrapper'>
-  <iframe width="100%" src="https://www.youtube.com/embed/rkHavc7U2BM" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/rkHavc7U2BM" frameborder="0" allowfullscreen></iframe>
 </div>
-
-
