@@ -34,7 +34,7 @@ letters with your foot, can add an additional mobility benefit while rolling
 out.
 
 <div class='videoWrapper'>
-  <iframe src="https://www.youtube.com/embed/LiiGp1IpIlo" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/C8gQ2njt4Dk" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Starting with the [FMS toe touch
